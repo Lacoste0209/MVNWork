@@ -2,6 +2,8 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+.gitignore file .idea
+.gitignore file target
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
